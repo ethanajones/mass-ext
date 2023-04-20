@@ -1,0 +1,8 @@
+{
+  "name": "mass-ext",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ethanajones/mass-ext.git",
+  "author": "EAJ <eaj9990@gmail.com>",
+  "license": "MIT"
+}
